@@ -43,6 +43,7 @@
     <Compile Include="Entities\Cliente.cs" />
     <Compile Include="Entities\Endereco.cs" />
     <Compile Include="Entities\Imovel.cs" />
+    <Compile Include="Entities\Venda.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

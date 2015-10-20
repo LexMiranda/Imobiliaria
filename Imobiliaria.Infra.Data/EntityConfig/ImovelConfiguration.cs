@@ -15,8 +15,7 @@ namespace Imobiliaria.Infra.Data.EntityConfig
                 .HasMaxLength(250);
             Property(i => i.Quartos)
                 .IsRequired();
-            HasRequired(i => i.Endereco)
-                .
+            
 
         }
 

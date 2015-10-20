@@ -20,6 +20,7 @@ namespace Imobiliaria.Infra.Data.Context
         public DbSet<Imovel> Imoveis { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
 
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();

@@ -3,3 +3,8 @@ c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Doma
 c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.csprojResolveAssemblyReference.cache
 c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.dll
 c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.pdb
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Domain\bin\Debug\Imobiliaria.Domain.dll
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Domain\bin\Debug\Imobiliaria.Domain.pdb
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.dll
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.pdb

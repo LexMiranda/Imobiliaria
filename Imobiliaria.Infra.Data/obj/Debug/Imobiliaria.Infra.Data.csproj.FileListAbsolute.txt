@@ -10,3 +10,15 @@ c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infr
 c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.dll
 c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.pdb
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Infra.Data.dll.config
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Infra.Data.dll
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Infra.Data.pdb
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Domain.dll
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Domain.pdb
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.dll
+C:\Users\lex.miranda\Documents\Visual Studio 2015\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.pdb

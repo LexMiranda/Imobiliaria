@@ -1,0 +1,5 @@
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\bin\Debug\Imobiliaria.Domain.dll
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\bin\Debug\Imobiliaria.Domain.pdb
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.csprojResolveAssemblyReference.cache
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.dll
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Domain\obj\Debug\Imobiliaria.Domain.pdb

@@ -1,0 +1,12 @@
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Infra.Data.dll.config
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Infra.Data.dll
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Infra.Data.pdb
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.dll
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Domain.dll
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\Imobiliaria.Domain.pdb
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.xml
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.dll
+c:\users\lexl\documents\visual studio 2013\Projects\Imobiliaria\Imobiliaria.Infra.Data\obj\Debug\Imobiliaria.Infra.Data.pdb
